@@ -48,11 +48,9 @@ print(norm_of_matrix)
 ![](Screenshot%20from%202023-01-25%2017-13-17.png)
 
 ### 2-Norm of a Matrix
-
 ![](Screenshot%20from%202023-01-25%2017-13-31.png)
 
 ### Infinity Norm of a Matrix
-
 ![](Screenshot%20from%202023-01-25%2017-13-50.png)
 
 ## Result
